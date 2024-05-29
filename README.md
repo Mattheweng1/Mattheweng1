@@ -6,18 +6,23 @@
     </a>
   </div>
   <h1>
-    hey there
+    hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
-- 👋 Hi, I’m @Mattheweng1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif?cid=ecf05e47jksdjtmn1rf6vgpjgmlvkwilumao86ae433d6jly&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Chicago suburbs.
+- 🌱 Most of my programming education has been guided by <a href="https://www.theodinproject.com/about" target="_blank" rel="noopener noreferrer"><img src="https://www.theodinproject.com/mstile-310x310.png" width="30"><b>The Odin Project</b></a>, but I tend to take detours when a topic tickles my brain.
+- 👀 I’m looking to use the skills I've acquired to make cool websites and to continue learning. One thing I've realized in life, and especially in the world of programming, is that there's always more to learn.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-caleb-eng/)
+- 😄 And if you're interested in my hobbies, I like to play volleyball 🏐, game 🎮, and watch anime
 
 <!---
 Mattheweng1/Mattheweng1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
