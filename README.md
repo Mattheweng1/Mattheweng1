@@ -18,11 +18,12 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Chicago suburbs.
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the Chicago suburbs. You should totally check out my <a href="https://mattheweng1.github.io/portfolio/" target="_blank" rel="noopener noreferrer"><b>Web Portfolio</b></a>, but there's also a little bit about me below.
+
 - 🌱 Most of my programming education has been guided by <a href="https://www.theodinproject.com/about" target="_blank" rel="noopener noreferrer"><img src="https://www.theodinproject.com/mstile-310x310.png" width="30"><b>The Odin Project</b></a>, but I tend to take detours when a topic tickles my brain.
 - 👀 I’m looking to use the skills I've acquired to make cool websites and to continue learning. One thing I've realized in life, and especially in the world of programming, is that there's always more to learn.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-caleb-eng/)
-- 😄 And if you're interested in my hobbies, I like to play volleyball 🏐, game 🎮, and watch anime
+- 😄 And if you're interested in my hobbies, I like to play volleyball 🏐, game 🎮, and watch anime.
 
 ---
 
